@@ -1,0 +1,7 @@
+
+L'intégration massive des énergies renouvelables (EnR) sur les réseaux électriques est devenue un objectif mondial en raison des enjeux environnementaux et économiques liés d’un coté à la réduction des émissions de gaz à effet de serre et d’autre coté au regard de l’énorme potentiel des EnR. 
+Cette métamorphisation des réseaux électriques entraine des défis techniques majeurs au regard de l’intermittence des EnR. 
+Pour surmonter ces défis, les applications intelligentes de gestion des réseaux électriques se placent comme un composant essentiel dans l’optimisation de l’exploitation des EnR. 
+Cette présente application se spécialise dans la prévision journalière et horaire de la production énergétique d’un réseau électrique hybride.
+Le Tchad étant un pays avec un fort potentiel énergétique solaire et éolienne intéressante, dans le cadre de ces travaux de thèse, nous considérerons comme source d’énergie les centrales solaires, éoliennes et générateurs conventionnels.  
+Afin de pouvoir prédire la production énergétique journalière et horaire, on tiendra compte de :

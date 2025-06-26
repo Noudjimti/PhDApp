@@ -1,0 +1,6 @@
+Nom : E-Forcast
+Version : 1.0
+Droits d'Auteur (Copyright) : © 2025 E-Forcast-Application Tous droits réservés
+Données : Les données d'entrainement des modèles sont issues de https://power.larc.nasa.gov/data-access-viewer/
+Principaux Modules : pandas(2.2.2), numpy(1.26.4), matplotlib(3.8.4), sklearn(1.4.2), tensorflow(2.18.0), streamlit(1.42.1), PIL(10.3.0) et sqlite3(2.6.0)
+Developpeur : Noudjimti Christian Leigh
