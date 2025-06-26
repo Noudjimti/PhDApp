@@ -239,7 +239,7 @@ if Main_Menu == "Apropos":
         st.html("<div><h2 style='text-align: center; background-color: #0099ff;'>Questions - Responses - Courantes</div></h2>")
 
     with col1:
-        with open("App_Identification.txt", 'r', encoding='Windows-1252') as file:
+        with open("App_Identification.txt", 'r', encoding='Windows-1252', errors='replace') as file:
             file = file.readlines()
             for ligne in file:
                 st.html(f"""<p style="font-size: 20px;">{ligne}</p>""")
