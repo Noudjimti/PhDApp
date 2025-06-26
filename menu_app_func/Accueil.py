@@ -10,7 +10,7 @@ def Read_Image_A():
 
 def Read_Text_A():
     st.html("""<div><h1>Présentation</h1></div>""")
-    with open("A_1.txt", 'r') as file:
+    with open("A_1.txt", 'r', encoding='utf-8') as file:
         A_1 = file.read()
     st.html(f"""<p style="font-size: 20px;">{A_1}<ul style="margin-left: 50px;"><li style="font-size: 20px;">Les données météorologiques
             </li><li style="font-size: 20px;">Les paramètres des différentes sources d’énergies</li></ul></p>""") #style ="background-color: rgb(23, 168, 233)"
